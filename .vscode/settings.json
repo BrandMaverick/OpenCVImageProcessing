@@ -1,0 +1,18 @@
+{
+    "python.languageServer": "Pylance",
+    "git.autofetch": true,
+    "python.autoComplete.extraPaths": [
+        "C:/Users/Sanjay Garg/OneDrive/Desktop/Course"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "[python]": {
+
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.defaultColorDecorators": "never",
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "python.experiments.optInto": [
+        
+    ]
+}
